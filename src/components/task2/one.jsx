@@ -70,7 +70,6 @@ var fake = [
   },
 ];
 var Prop_com2 = (fake) => {
-    console.log(fake);
     
     return (
       <>

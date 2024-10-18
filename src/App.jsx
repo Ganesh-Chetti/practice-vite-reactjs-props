@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      {/* <Prop_com1></Prop_com1> */}
-      {/* <Prop_comp1></Prop_comp1> */}
+      <Prop_com1></Prop_com1>
+     <Prop_comp1></Prop_comp1>
       <IMG></IMG>
     </>
   )
